@@ -22,11 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-           <code> react-exp-02-ri5uf0uyn-hizza710s-projects.vercel.app　</code> 
+           <a href="https://react-exp-02-ri5uf0uyn-hizza710s-projects.vercel.app">　</a> 
         </p>
       </div>
       <p className="read-the-docs">
-        やっと初級編の理解ができました　よろしくお願いいたします！
+        アーカイブのおかげで、やっと初級編の理解が進みました。追いつけるか不安ですが、よろしくお願いいたします！
       </p>
     </>
   )
