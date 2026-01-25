@@ -4,6 +4,7 @@ import Header from "../../layout/Header";
 import SideBar from "../../layout/SideBar";
 import ChartBar from "../../components/ChartBar";
 import useAuth from "../../hooks/useAuth";
+import CustomerList from "../../components/CustomerList";
 
 const Chart = () => {
     useAuth();

@@ -2,7 +2,7 @@ import React from "react";
 import { BarChart } from "@mui/x-charts/BarChart";
 import styles from "./style.module.scss";
 
-const ChartBar = () => {
+const CustomerList = () => {
   return (
     <>
       <div className={styles.chartBar}>
@@ -22,5 +22,5 @@ const ChartBar = () => {
   );
 };
 
-export default ChartBar;
+export default CustomerList;
 
